@@ -1,0 +1,8 @@
+C:\Users\HS1106106\Desktop\Temporary file\C#_project\App_test\World\obj\Debug\World.csproj.AssemblyReference.cache
+C:\Users\HS1106106\Desktop\Temporary file\C#_project\App_test\World\obj\Debug\World.csproj.SuggestedBindingRedirects.cache
+C:\Users\HS1106106\Desktop\Temporary file\C#_project\App_test\World\obj\Debug\World.csproj.CoreCompileInputs.cache
+C:\Users\HS1106106\Desktop\Temporary file\C#_project\App_test\World\bin\Debug\World.exe.config
+C:\Users\HS1106106\Desktop\Temporary file\C#_project\App_test\World\bin\Debug\World.exe
+C:\Users\HS1106106\Desktop\Temporary file\C#_project\App_test\World\bin\Debug\World.pdb
+C:\Users\HS1106106\Desktop\Temporary file\C#_project\App_test\World\obj\Debug\World.exe
+C:\Users\HS1106106\Desktop\Temporary file\C#_project\App_test\World\obj\Debug\World.pdb
